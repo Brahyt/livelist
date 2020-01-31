@@ -1,0 +1,6 @@
+[submodule "livelist-client"]
+	path = livelist-client
+	url = git@github.com:thinkful-ei-heron/SocialPlaylist-Client.git
+[submodule "listlist-server"]
+	path = listlist-server
+	url = https://github.com/thinkful-ei-heron/SocialPlaylist-server
